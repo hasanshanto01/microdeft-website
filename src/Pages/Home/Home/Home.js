@@ -10,7 +10,7 @@ const Home = () => {
                 <FilterBar></FilterBar>
                 <AllProducts></AllProducts>
             </div>
-            <div className='2/5'>
+            <div className='w-2/5'>
                 <AddProduct></AddProduct>
             </div>
         </div>
