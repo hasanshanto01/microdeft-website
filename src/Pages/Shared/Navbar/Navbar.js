@@ -29,7 +29,7 @@ const Navbar = () => {
             </div>
             <div className="navbar-end">
                 <div className="form-control">
-                    <input type="text" placeholder="Search" className="input input-bordered border-primary w-24 md:w-auto" />
+                    <input type="text" placeholder="Filter product" className="input input-bordered border-primary w-24 md:w-auto" />
                 </div>
             </div>
         </div>
